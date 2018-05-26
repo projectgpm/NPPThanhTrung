@@ -1,0 +1,197 @@
+﻿html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+/*.dxpnl-edge.t.headerPane 
+{
+    background-image: url("/Content/Images/GlassHeader.jpg");
+    background-color: #ffffff;
+    background-position: left top;
+    background-repeat: no-repeat;
+}*/
+.dxpnl-edge.t.headerPane
+{
+    /*background-image: url('images/GlassHeader.jpg');
+    background-color: #1f77c0;*/
+    background-color: #1f77c0;
+}
+.dxpnl-edge.t.headerPane.panel 
+{
+    padding: 0;
+}
+
+.expandedPanel 
+{
+    padding: 2px!important;
+}
+.expandedPanel .headerMenu 
+{
+    float: inherit;
+    border-top-width: 0!important;
+}
+.expandedPanel .headerTop 
+{
+    display: none;
+}
+.imglogo
+{
+    width: 80px;
+    height: 40px;
+}
+.logo
+{
+    float: left;
+    margin: 2px 5px 2px 25px;
+}
+
+.templateTitle 
+{
+    float:left;
+    margin: 13px 3px 2px;
+}
+.headerMenu 
+{
+    float: right;
+    /*background-image: url('images/GlassHeader.jpg');
+    background-color: #1f77c0;*/
+    background-color: #1F77C0;
+    border-width: 0!important;
+    border-top-width: 1px!important;
+    /*margin: 5px 0px 0px 0px;*/
+    
+}
+.dxpnl-edge.t.headerPane.bar .templateTitle 
+{
+    margin: 0;    
+}
+
+.templateTitle a 
+{
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    color: #ffffff;    
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.loginControl 
+{
+    float: right;
+    margin: 24px 25px 5px;
+    font-size: 12px;
+}
+.loginControl a 
+{
+    color: #0072c6;
+    text-decoration: none;
+    border-bottom: dashed 1px black;
+    display: inline-block;    
+    border-color: #0072c6;
+}
+
+
+/* Footer */
+.dxpnl-edge.b.footerPane 
+{
+    background-color: #EDEDED;
+}
+.dxpnl-edge.b.footerPane.panel 
+{
+    padding: 0;
+}
+.footerMenu 
+{
+    float: right;
+    padding-top: 7px;
+}
+.copyright 
+{
+    float: left;
+    margin: 100px 15px 11px;
+}
+.content 
+{
+    padding: 5px;
+}
+
+/* Left Panel */
+.leftPane.panel
+{
+    padding: 1px;
+    width: 200px;
+}
+
+/* Right Panel */
+.rightPane.panel
+{
+    padding: 0;
+    width: 250px;
+}
+
+/* Account */
+.accountHeader h2 
+{
+    margin: 10px 0 7px 0;
+    font-size: 16px;
+    color: #3B3B3B;
+}
+.accountHeader p 
+{
+    margin: 0;
+    padding: 0;
+}
+.accountHeader 
+{
+    margin-bottom: 20px;
+}
+.form-field
+{
+    margin-bottom: 8px;
+}
+
+/* GridView */
+.dxgvHeader_Material {
+    /*color:#999999;*/
+    /*background-color:#fafafa;*/
+    border: 1px Solid #d1d1d1;
+	background: #F9F9F9;
+    color: #1f77c0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.dxgvFooter_Material td.dxgv
+{
+    color: #428BCA;
+}
+.dxeNullText_Material .dxeEditArea_Material, .dxeNullText_Material .dxeMemoEditArea_Material
+{
+    color: #428BCA;
+    font-style: oblique;
+}
+.dxflItem_Material.dxflCommandItemSys a {
+        margin-left: 2px;
+        margin-right: 2px;
+}
+.dxgvGroupFooter_Material td.dxgv {
+    padding: 5px 10px 5px;
+    color: #009933;
+}
+/* Formlayout */
+.dxflGroupBoxCaption_Material
+{
+    color: #428BCA;
+    font-size: 18px;
+    font-weight: bold;
+}
+/*Padding Caption*/
+.dxflItemSys.dxflCLTSys .dxflCaptionCell_Material, .dxflItemSys.dxflCLBSys .dxflCaptionCell_Material
+{
+    padding: 5px 0;
+}
+/*padding item cell*/
+.dxflItem_Material, .dxflViewFormLayoutSys .dxflEditFormItemSys.dxflItem_Material
+{
+    padding: 3px 0;
+}
+

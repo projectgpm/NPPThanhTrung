@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.375, 14.25" name="KobePaintDB">
+  <DataContextMoniker Name="/KobePaintDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b018858e-671d-4199-b383-ff9c28f90a74" isExpanded="false" absoluteBounds="3.75, 8.75, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/ghPhieuDaiLyThanhToan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9bb7e784-bff5-42d6-af91-893e9982f97b" absoluteBounds="3.765, 9.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7b75ef1-cf9f-4657-a1ac-1db7a975fe5a" isExpanded="false" absoluteBounds="9.625, 10, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/ghPhieuGiaoHangChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a14217ec-520c-4449-b9e6-911e8b6ecaad" absoluteBounds="9.64, 10.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b78d4098-d487-4c8d-a4d9-078874058b16" isExpanded="false" absoluteBounds="3.625, 1.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/gPhieuThu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f41df7e1-8bad-4cfc-a081-d8e0e9fa8ac3" absoluteBounds="3.6400000000000006, 2.3350000000000009, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="110f3344-04b9-4bc9-97f0-2bbff0644918" isExpanded="false" absoluteBounds="3.5, 2.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/gPhieuThuChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0dfbad5d-cde8-4685-afa8-0e7fb2806c0c" absoluteBounds="3.5150000000000006, 3.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="09d0345e-d49f-4ce1-9e41-c96d0f6199bd" isExpanded="false" absoluteBounds="0.625, 1, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/hhDonViTinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9fb91721-d389-41a7-b138-07349f53c020" absoluteBounds="0.64, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" isExpanded="false" absoluteBounds="0.625, 1.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/hhHangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5fcea2d7-4ac9-47a3-9bf7-1d3ef122d467" absoluteBounds="0.64000000000000012, 2.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b37434b2-7487-4c70-9d03-b2fb3069e323" isExpanded="false" absoluteBounds="0.625, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/hhLoaiHangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa0dfa91-b8c6-4f85-a0cc-a65efb1290ab" absoluteBounds="0.64000000000000012, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="da2acee9-f121-44b5-a7b4-96f4e2108e87" isExpanded="false" absoluteBounds="3.125, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/hhNhomHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f0d2ebf-1038-457f-8751-e166435f7e3d" absoluteBounds="3.1400000000000006, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b75772c0-11c5-4dce-b055-32a95e2653ab" isExpanded="false" absoluteBounds="0.625, 3.75, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/khLoaiKhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a43cfb0-40c0-4911-b77e-b6201a65c48c" absoluteBounds="0.64000000000000012, 4.2100000000000009, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8692ec4b-8ebe-48b6-9a31-fe4f5dd65237" isExpanded="false" absoluteBounds="5, 13.5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kKiemKe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ecb5d76-b9cc-48ca-ae84-b2b487f8c8fd" absoluteBounds="5.0150000000000006, 13.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d89fcf41-605d-4e7c-b155-015f36262017" isExpanded="false" absoluteBounds="5.125, 12.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kKiemKeChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="490e8d91-a1af-4332-944e-a2b34bccb062" absoluteBounds="5.1400000000000006, 13.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9582acba-8d2b-4501-b908-ee8b6c8bee5d" isExpanded="false" absoluteBounds="6.125, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kLyDoXuatKhac" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0af8cf92-7cf6-43ce-8290-cf630e7d3778" absoluteBounds="6.1400000000000006, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2872eb07-4ee7-4827-ac51-ffab8f06e5ae" isExpanded="false" absoluteBounds="4.625, 11.625, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kNhapKho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf43e172-dc86-4e33-b848-cafe584eb2e1" absoluteBounds="4.6400000000000006, 12.085, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="acf5d729-4f0b-4877-bcc1-36658f7903e9" isExpanded="false" absoluteBounds="3.625, 7.125, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuThanhToanNCC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="124f0ef8-99e7-44d1-9ccb-76c3714916ca" absoluteBounds="3.6399999999999997, 7.5850000000000009, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b0924a9d-3759-4e31-b8bb-083025d80f89" isExpanded="false" absoluteBounds="3.875, 10.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuXuatKhac" />
+      <nestedChildShapes>
+        <elementListCompartment Id="275baa80-4993-4e51-b893-5100d84d09ab" absoluteBounds="3.8900000000000006, 11.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="caee4e72-9204-4e82-8eb3-4acf2f3a98bc" isExpanded="false" absoluteBounds="6, 10.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuXuatKhacChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="062e3851-945f-4269-bf5d-9210ac38b89a" absoluteBounds="6.0150000000000006, 11.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b6408c79-d903-41ee-b25d-84d64e23c14f" isExpanded="false" absoluteBounds="2, 12.5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/nvNhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="16dcfbc9-d98f-442f-a6c9-857adfc280c0" absoluteBounds="2.015, 12.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c643e6b-f3c6-49ef-a46b-e725bb0a640c" isExpanded="false" absoluteBounds="6.125, 3, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/nvNhom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b6de05c-c23d-45f6-9433-2dd23fb2fb87" absoluteBounds="6.1400000000000006, 3.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ca182be8-07f5-400d-91d3-25a71da7189a" isExpanded="false" absoluteBounds="6.125, 1.125, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/pLoaiThuChi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c186cc85-a7ab-4ed8-bda3-abf629fb6d25" absoluteBounds="6.1400000000000006, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 2.1); (3.375 : 2.1); (3.375 : 2.575); (3.41666666666667 : 2.575 : JumpStart); (3.58333333333333 : 2.575 : JumpEnd); (5.51041666666667 : 2.575 : JumpStart); (5.67708333333333 : 2.575 : JumpEnd); (5.79166666666667 : 2.575 : JumpStart); (6.08333333333333 : 2.575 : JumpEnd); (10.625 : 2.575); (10.625 : 10)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_ghPhieuGiaoHangChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="f7b75ef1-cf9f-4657-a1ac-1db7a975fe5a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.625 : 1.45); (1.625 : 1.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhDonViTinh/hhDonViTinh_hhHangHoa" />
+      <nodes>
+        <classShapeMoniker Id="09d0345e-d49f-4ce1-9e41-c96d0f6199bd" />
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.17187775 : 12.5); (3.17187775 : 2.2124995); (3.35416666666667 : 2.2124995 : JumpStart); (3.58333333333333 : 2.2124995 : JumpEnd); (3.625 : 2.2124995)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_gPhieuThu" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="b78d4098-d487-4c8d-a4d9-078874058b16" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4 : 12.65625); (5.03125 : 12.65625); (5.03125 : 13.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kKiemKe" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="8692ec4b-8ebe-48b6-9a31-fe4f5dd65237" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4 : 12.5); (4.62499999999998 : 12.075)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kNhapKho" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="2872eb07-4ee7-4827-ac51-ffab8f06e5ae" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.65625 : 12.5); (3.65625 : 7.575)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kPhieuThanhToanNCC" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="acf5d729-4f0b-4877-bcc1-36658f7903e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.9687475 : 12.5); (3.9687475 : 11.325)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kPhieuXuatKhac" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="b0924a9d-3759-4e31-b8bb-083025d80f89" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4ebe75a2-e698-4eaf-b25d-c4ea3016a731" isExpanded="false" absoluteBounds="4.25, 6.25, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuTraHangChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c54682cf-bad1-4f4b-9847-ad1d07a39435" absoluteBounds="4.265, 6.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 1.956248); (3.5 : 1.956248); (3.5 : 2.75); (5.51041666666667 : 2.75 : JumpStart); (5.67708333333333 : 2.75 : JumpEnd); (5.75 : 2.75); (5.75 : 5.25); (6.25 : 5.25); (6.25 : 5.875); (5.25 : 5.875); (5.25 : 6.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_kPhieuTraHangChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="4ebe75a2-e698-4eaf-b25d-c4ea3016a731" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="14a3aafe-4b8e-4616-b946-97e43af7e864" isExpanded="false" absoluteBounds="0.625, 3.125, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/chChiNhanh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3dc0a3da-6793-4e72-a487-7f20ed852c87" absoluteBounds="0.64, 3.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3ff198d5-3530-4e9c-91c4-ddcd02e55664" isExpanded="false" absoluteBounds="6, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/pPhieuThuChi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="923ec3ff-ee2c-440f-b11a-4b65277129b3" absoluteBounds="6.0150000000000006, 0.96, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5467c544-51e0-4b81-9c00-503e8e8c36fa" isExpanded="false" absoluteBounds="4.375, 9.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuTraHangNCC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="67f3ebb7-aca6-480e-b14c-4c992eb2eef4" absoluteBounds="4.39, 10.335, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.9062505 : 12.5); (2.9062505 : 10.207814375); (3.08854441666667 : 10.207814375 : JumpStart); (3.25521108333333 : 10.207814375 : JumpEnd); (3.57291666666667 : 10.207814375 : JumpStart); (3.73958333333333 : 10.207814375 : JumpEnd); (4.375 : 10.207814375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kPhieuTraHangNCC" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="5467c544-51e0-4b81-9c00-503e8e8c36fa" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6b26cc8e-1062-4f99-a5ba-7ae7f6a4fa85" isExpanded="false" absoluteBounds="6, 8, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuTraHangNCCChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e41c979-c92f-49d7-a3b1-a50ce0b181cb" absoluteBounds="6.015, 8.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 2.26874925); (3 : 2.26874925); (3 : 2.45); (3.08854441666667 : 2.45 : JumpStart); (3.25521108333333 : 2.45 : JumpEnd); (3.35416666666667 : 2.45 : JumpStart); (3.58333333333333 : 2.45 : JumpEnd); (5.51041666666667 : 2.45 : JumpStart); (5.67708333333333 : 2.45 : JumpEnd); (5.875 : 2.45); (5.875 : 5.125); (6.5 : 5.125); (6.5 : 7.625); (7 : 7.625); (7 : 8)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_kPhieuTraHangNCCChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="6b26cc8e-1062-4f99-a5ba-7ae7f6a4fa85" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="404d54b8-606f-4466-b3b4-5b1c16acab05" isExpanded="false" absoluteBounds="4, 5.375, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kPhieuTraHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ddc68e87-aec9-4f60-aa93-13c175ff7951" absoluteBounds="4.015, 5.835, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.50195275 : 12.5); (2.50195275 : 5.52812375); (4 : 5.52812375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_kPhieuTraHang" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="404d54b8-606f-4466-b3b4-5b1c16acab05" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="fdf0b485-4441-4299-920a-61c51fe1a3b0" isExpanded="false" absoluteBounds="9.625, 10.625, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/ghPhieuGiaoHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a148337-3aab-4aa0-a9b4-b58487edd045" absoluteBounds="9.64, 11.085, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.39062775 : 12.5); (3.39062775 : 10.7500025); (9.625 : 10.7500025)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/nvNhanVien/nvNhanVien_ghPhieuGiaoHang" />
+      <nodes>
+        <classShapeMoniker Id="b6408c79-d903-41ee-b25d-84d64e23c14f" />
+        <classShapeMoniker Id="fdf0b485-4441-4299-920a-61c51fe1a3b0" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9e07562a-64a1-4d79-870e-2b340b1671d1" isExpanded="false" absoluteBounds="10.25, 1.625, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/bgChiTietBangGia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9fe6ead-28b7-4075-b1f7-fa7a47fda730" absoluteBounds="10.265, 2.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 1.9875005); (3.4375 : 1.9875005); (3.4375 : 2.6375); (5.51041666666667 : 2.6375 : JumpStart); (5.67708333333333 : 2.6375 : JumpEnd); (5.91666666666667 : 2.6375 : JumpStart); (6.08333333333333 : 2.6375 : JumpEnd); (11.65624975 : 2.6375); (11.65624975 : 2.075)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_bgChiTietBangGia" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="9e07562a-64a1-4d79-870e-2b340b1671d1" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e15d7efa-2fc4-49f3-8cb2-bee662ca4ef1" absoluteBounds="12.125, 0.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/KobePaintDBDataContext/bgBangGia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a36bd0e9-7e70-4ee5-871c-48ff48194b84" absoluteBounds="12.14, 1.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(12.125 : 2.3562525); (11.7395830833333 : 2.3562525 : JumpStart); (11.5729164166667 : 2.3562525 : JumpEnd); (11.1874995 : 2.3562525); (11.1874995 : 2.075)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/bgBangGia/bgBangGia_bgChiTietBangGia" />
+      <nodes>
+        <classShapeMoniker Id="e15d7efa-2fc4-49f3-8cb2-bee662ca4ef1" />
+        <classShapeMoniker Id="9e07562a-64a1-4d79-870e-2b340b1671d1" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ac71dbc6-eeb5-4da0-b255-e8fa8cd73674" isExpanded="false" absoluteBounds="7.125, 5, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/khNhatKyCongNo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8e53929-da3c-4b7c-a351-3ba811b9ccb9" absoluteBounds="7.14, 5.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" isExpanded="false" absoluteBounds="0.5, 4.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/khKhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bce0c38-d3b8-41d3-b457-d255633603f8" absoluteBounds="0.51499999999999968, 5.335, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.421875 : 5.325); (1.421875 : 8.975); (2.07682666666667 : 8.975 : JumpStart); (2.24349333333333 : 8.975 : JumpEnd); (2.41861941666667 : 8.975 : JumpStart); (2.58528608333333 : 8.975 : JumpEnd); (3.08854441666667 : 8.975 : JumpStart); (3.25521108333333 : 8.975 : JumpEnd); (3.75 : 8.975)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_ghPhieuDaiLyThanhToan" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="b018858e-671d-4199-b383-ff9c28f90a74" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 5.1); (5.59375 : 5.1); (5.59375 : 2.325)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_gPhieuThu" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="b78d4098-d487-4c8d-a4d9-078874058b16" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.914065 : 5.325); (1.914065 : 11.8187475); (2.41861941666667 : 11.8187475 : JumpStart); (2.58528608333333 : 11.8187475 : JumpEnd); (3.08854441666667 : 11.8187475 : JumpStart); (3.25521108333333 : 11.8187475 : JumpEnd); (3.30729441666667 : 11.8187475 : JumpStart); (3.47396108333333 : 11.8187475 : JumpEnd); (3.57291666666667 : 11.8187475 : JumpStart); (3.73958333333333 : 11.8187475 : JumpEnd); (3.88541416666667 : 11.8187475 : JumpStart); (4.05208083333333 : 11.8187475 : JumpEnd); (4.625 : 11.8187475)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_kNhapKho" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="2872eb07-4ee7-4827-ac51-ffab8f06e5ae" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.929685 : 5.325); (0.929685 : 7.35); (3.625 : 7.35)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_kPhieuThanhToanNCC" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="acf5d729-4f0b-4877-bcc1-36658f7903e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.16016 : 5.325); (2.16016 : 10.0101546875); (4.375 : 10.0101546875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_kPhieuTraHangNCC" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="5467c544-51e0-4b81-9c00-503e8e8c36fa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.66797 : 5.325); (1.66797 : 5.7437525); (2.07682666666667 : 5.7437525 : JumpStart); (2.24349333333333 : 5.7437525 : JumpEnd); (2.41861941666667 : 5.7437525 : JumpStart); (2.58528608333333 : 5.7437525 : JumpEnd); (3.08854441666667 : 5.7437525 : JumpStart); (3.25521108333333 : 5.7437525 : JumpEnd); (4 : 5.7437525)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_kPhieuTraHang" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="404d54b8-606f-4466-b3b4-5b1c16acab05" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.17578 : 5.325); (1.17578 : 10.71875); (2.41861941666667 : 10.71875 : JumpStart); (2.58528608333333 : 10.71875 : JumpEnd); (9.625 : 10.71875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khKhachHang/khKhachHang_ghPhieuGiaoHang" />
+      <nodes>
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+        <classShapeMoniker Id="fdf0b485-4441-4299-920a-61c51fe1a3b0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.125 : 2.5881982421875); (13.125 : 4.90625); (5.83333333333333 : 4.90625 : JumpStart); (5.51041666666667 : 4.90625 : JumpEnd); (3.25521108333333 : 4.90625 : JumpStart); (3.08854441666667 : 4.90625 : JumpEnd); (2.5 : 4.90625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/bgBangGia/bgBangGia_khKhachHang" />
+      <nodes>
+        <classShapeMoniker Id="e15d7efa-2fc4-49f3-8cb2-bee662ca4ef1" />
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.71875 : 4.2); (1.71875 : 4.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/khLoaiKhachHang/khLoaiKhachHang_khKhachHang" />
+      <nodes>
+        <classShapeMoniker Id="b75772c0-11c5-4dce-b055-32a95e2653ab" />
+        <classShapeMoniker Id="ac775fbf-605b-4b3e-b326-eca838ba4bc7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b7fa02c5-cd7a-4d18-a2b7-d8d9eac9c9d1" isExpanded="false" absoluteBounds="7.75, 12.25, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kNhapKhoChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27259c44-9cf0-43e8-85d7-7230e93f0f22" absoluteBounds="7.765, 12.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 2.1312525); (3.3125 : 2.1312525); (3.3125 : 2.5125); (3.35416666666667 : 2.5125 : JumpStart); (3.58333333333333 : 2.5125 : JumpEnd); (5.51041666666667 : 2.5125 : JumpStart); (5.67708333333333 : 2.5125 : JumpEnd); (5.91666666666667 : 2.5125 : JumpStart); (6.08333333333333 : 2.5125 : JumpEnd); (9.375 : 2.5125); (9.375 : 11.875); (8.83333333333333 : 11.875 : JumpStart); (8.66666666666667 : 11.875 : JumpEnd); (8.218748 : 11.875); (8.218748 : 12.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_kNhapKhoChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="b7fa02c5-cd7a-4d18-a2b7-d8d9eac9c9d1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.625 : 11.75); (8.75 : 11.75); (8.75 : 12.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/kNhapKho/kNhapKho_kNhapKhoChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="2872eb07-4ee7-4827-ac51-ffab8f06e5ae" />
+        <classShapeMoniker Id="b7fa02c5-cd7a-4d18-a2b7-d8d9eac9c9d1" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="044c2828-7f45-47dc-a721-032c4d5a2f00" isExpanded="false" absoluteBounds="3.25, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/bc_NhapXuatTon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5865334-e238-4c6e-b272-003ce0bafe79" absoluteBounds="3.2649999999999997, 1.71, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41506b80-716a-4f7a-9f8e-765f3be00082" isExpanded="false" absoluteBounds="6, 3.875, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/kTheKho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="93eb0d06-983d-419e-a9d3-dd7d46b7bcdf" absoluteBounds="6.015, 4.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 2.162505); (3.25 : 2.162505); (3.25 : 2.3875); (6 : 2.3875); (6 : 3.5); (7 : 3.5); (7 : 3.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KobePaintDBDataContext/hhHangHoa/hhHangHoa_kTheKho" />
+      <nodes>
+        <classShapeMoniker Id="753ffc35-da2b-43f2-a68c-c1e478ddcf48" />
+        <classShapeMoniker Id="41506b80-716a-4f7a-9f8e-765f3be00082" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="dd417472-8e3f-4738-873f-1c000a74702e" isExpanded="false" absoluteBounds="0.75, 2.625, 2, 0.45">
+      <DataClassMoniker Name="/KobePaintDBDataContext/hhBarcode" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28e3f4b3-66fc-47e3-836e-28d3c05fc14e" absoluteBounds="0.76499999999999968, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

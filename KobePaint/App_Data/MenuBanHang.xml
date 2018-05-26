@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item text="Hàng hóa">
+    <item Text="Danh sách hàng hóa" NavigateUrl="~/Pages/HangHoa/HangHoa.aspx" ></item>
+  </item>>
+ <item Text="Đối tác">
+  <item Text="1. Thêm khách hàng" NavigateUrl="~/Pages/KhachHang/ThemKH.aspx" />
+  <item Text="2. Danh sách khách hàng" NavigateUrl="~/Pages/KhachHang/DanhSachKH.aspx" />
+</item>
+  <item Text="Giao dịch">
+    <item Text="1. Bán hàng" NavigateUrl="~/Pages/BanHang/LapPhieu.aspx" />
+    <item Text="2. Lập phiếu giao hàng" NavigateUrl="~/Pages/GiaoHang/LapPhieu.aspx" />
+    <item Text="3. Danh sách giao hàng" NavigateUrl="~/Pages/GiaoHang/DanhSachGiaoHang.aspx" />
+    <item Text="4. Lập phiếu trả hàng" NavigateUrl="~/Pages/TraHang/LapPhieu.aspx" />
+    <item Text="5. Danh sách trả hàng" NavigateUrl="~/Pages/TraHang/DanhSachTraHang.aspx" />
+  </item>
+
+  <item Text="Hệ thống" >
+    <item Text="1. Thông tin tài khoản" NavigateUrl="~/Pages/TaiKhoan/ThongTinTaiKhoan.aspx" />
+    <item Text="2. Đăng xuất"   NavigateUrl="~/Pages/TaiKhoan/DangXuat.aspx" />
+    <item Text="3. Trợ giúp"  NavigateUrl="https://gpm.vn/" />
+  </item>
+</items>

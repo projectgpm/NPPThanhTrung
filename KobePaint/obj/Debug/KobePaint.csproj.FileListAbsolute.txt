@@ -1,0 +1,96 @@
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\bin\KobePaint.dll.config
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\bin\KobePaint.dll
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\bin\KobePaint.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\obj\Debug\KobePaint.dll
+c:\users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\obj\Debug\KobePaint.pdb
+C:\Users\nguye\documents\visual studio 2013\Projects\KobePaint\KobePaint\obj\Debug\KobePaint.dll.licenses
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.dll.config
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.dll
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.pdb
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.dll.licenses
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.dll
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.pdb
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.dll.config
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.dll
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\bin\KobePaint.pdb
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.dll.licenses
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.dll
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.pdb
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTamUng.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTamUng.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToanCK.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+E:\[KobePaint]\SourceCode\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToanCK.resources
+E:\[An]\GoogleDriver\KP\KobePaint\KobePaint\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\obj\Debug\KobePaint.dll.licenses
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\obj\Debug\KobePaint.dll
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\obj\Debug\KobePaint.pdb
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\bin\KobePaint.dll
+C:\Users\LUAN IT\Desktop\New folder\BanHang\KobePaint\bin\KobePaint.pdb
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\bin\KobePaint.dll
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\bin\KobePaint.pdb
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll.licenses
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.pdb
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThuChi.resources
+D:\GPM2018\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\bin\KobePaint.dll
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\bin\KobePaint.pdb
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThuChi.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll.licenses
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.pdb
+D:\GPMSoffware\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\bin\KobePaint.dll
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\bin\KobePaint.pdb
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThuChi.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll.licenses
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.dll
+D:\GPMVIETNAM\BanHang_ChiNhanh\KobePaint\obj\Debug\KobePaint.pdb
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\bin\KobePaint.dll
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\bin\KobePaint.pdb
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpGiaoDich.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHang.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuGiaoHangNoPrice.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThanhToan.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuThuChi.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHang.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.Reports.rpPhieuTraHangNoPrice.resources
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.csproj.GenerateResource.Cache
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.dll.licenses
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.dll
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.pdb
+D:\GPMVIETNAM\BanHang_BangGia\KobePaint\obj\Debug\KobePaint.csprojResolveAssemblyReference.cache

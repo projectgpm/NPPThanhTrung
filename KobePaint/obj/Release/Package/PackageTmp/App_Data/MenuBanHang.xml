@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item text="Hàng hóa">
+    <item Text="Danh sách hàng hóa" NavigateUrl="~/Pages/HangHoa/HangHoa.aspx" ></item>
+  </item>>
+ <item Text="Đối tác">
+  <item Text="Thêm khách hàng" NavigateUrl="~/Pages/KhachHang/ThemKH.aspx" />
+  <item Text="Danh sách khách hàng" NavigateUrl="~/Pages/KhachHang/DanhSachKH.aspx" />
+</item>
+  <item Text="Giao dịch">
+    <item Text="Bán hàng" NavigateUrl="~/Pages/BanHang/LapPhieu.aspx" />
+    <item Text="Lập phiếu giao hàng" NavigateUrl="~/Pages/GiaoHang/LapPhieu.aspx" />
+    <item Text="Danh sách giao hàng" NavigateUrl="~/Pages/GiaoHang/DanhSachGiaoHang.aspx" />
+    <item Text="Lập phiếu trả hàng" NavigateUrl="~/Pages/TraHang/LapPhieu.aspx" />
+    <item Text="Danh sách trả hàng" NavigateUrl="~/Pages/TraHang/DanhSachTraHang.aspx" />
+  </item>
+
+  <item Text="Hệ thống" >
+    <item Text="Thông tin tài khoản" NavigateUrl="~/Pages/TaiKhoan/ThongTinTaiKhoan.aspx" />
+    <item Text="Đăng xuất"  NavigateUrl="~/Pages/TaiKhoan/DangXuat.aspx" />
+  </item>
+</items>

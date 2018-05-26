@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <!--<item text="Tổng quan" NavigateUrl="~/Pages/TongQuan/TongQuan.aspx"  ></item>-->
+  <item text="Hàng hóa">
+    <item Text="1. Thêm hàng hóa" NavigateUrl="~/Pages/HangHoa/ThemHangHoa.aspx" ></item>
+    <item Text="2. Danh sách hàng hóa" NavigateUrl="~/Pages/HangHoa/HangHoa.aspx" ></item>
+    <item Text="3. Bảng giá" NavigateUrl="~/Pages/HangHoa/BangGia.aspx" ></item>
+    <item Text="4. Liên kết bảng giá" NavigateUrl="~/Pages/HangHoa/LienKetBangGia.aspx" ></item>
+  </item>
+  <item Text="Đối tác">
+    <item Text="1. Thêm khách hàng - NCC" NavigateUrl="~/Pages/KhachHang/ThemKH.aspx" />
+    <item Text="2. Danh sách khách hàng" NavigateUrl="~/Pages/KhachHang/DanhSachKH.aspx" />
+    <item Text="3. Danh sách nhà cung cấp" NavigateUrl="~/Pages/KhachHang/DanhSachNCC.aspx" />
+
+  </item>
+  <item Text="Kho">
+    <item Text="1. Tồn kho" NavigateUrl="~/Pages/Kho/TonKho.aspx" />
+    <item Text="2. Nhập kho" NavigateUrl="~/Pages/Kho/NhapKho.aspx" />
+    <item Text="3. Danh sách nhập kho" NavigateUrl="~/Pages/Kho/DanhSachNhapKho.aspx" />
+    <item Text="4. Thêm phiếu xuất khác" NavigateUrl="~/Pages/Kho/ThemXuatKhac.aspx" />
+    <item Text="5. Danh sách xuất khác" NavigateUrl="~/Pages/Kho/DanhSachXuatKhac.aspx" />
+    <item Text="6. Thêm phiếu kiểm kê" NavigateUrl="~/Pages/Kho/ThemKiemKho.aspx" />
+    <item Text="7. Danh sách kiểm kê" NavigateUrl="~/Pages/Kho/DanhSachKiemKho.aspx" />
+  </item>
+  <item Text="Giao dịch">
+    <item Text="1. Bán hàng" NavigateUrl="~/Pages/BanHang/LapPhieu.aspx" />
+    <item Text="2. Lập phiếu giao hàng" NavigateUrl="~/Pages/GiaoHang/LapPhieu.aspx" />
+    <item Text="3. Danh sách giao hàng" NavigateUrl="~/Pages/GiaoHang/DanhSachGiaoHang.aspx" />
+    <item Text="4. Lập phiếu trả hàng" NavigateUrl="~/Pages/TraHang/LapPhieu.aspx" />
+    <item Text="5. Danh sách trả hàng" NavigateUrl="~/Pages/TraHang/DanhSachTraHang.aspx" />
+    <item Text="6. Lập phiếu trả hàng NCC" NavigateUrl="~/Pages/TraHang/TraHangNCC.aspx" />
+    <item Text="7. Danh sách trả hàng NCC" NavigateUrl="~/Pages/TraHang/DanhSachTraHangNCC.aspx" />
+  </item>
+
+  <item Text="Thanh toán" >
+    <item Text="1. Lập phiếu KH thanh toán" NavigateUrl="~/Pages/ThanhToan/LapThanhToan.aspx" />
+    <item Text="2. Danh sách thanh toán" NavigateUrl="~/Pages/ThanhToan/DanhSachThanhToan.aspx" />
+    <item Text="3. Lập phiếu thanh toán NCC" NavigateUrl="~/Pages/ThanhToan/LapThanhToanNCC.aspx" />
+    <item Text="4. Danh sách thanh toán NCC" NavigateUrl="~/Pages/ThanhToan/DanhSachThanhToanNCC.aspx" />
+  </item>
+
+  <!--<item Text="Thu chi" >
+    <item Text="Lập phiếu thu chi" NavigateUrl="~/Pages/ThuChi/LapPhieuThuChi.aspx" />
+    <item Text="Danh sách phiếu thu chi" NavigateUrl="~/Pages/ThuChi/DanhSachThuChi.aspx" />
+    -->
+  <!--<item Text="Lập phiếu tạm ứng" NavigateUrl="" />
+    <item Text="Danh sách tạm ứng" NavigateUrl="" />-->
+  <!--
+  </item>-->
+
+  <item Text="Báo cáo" >
+    <item Text="1. Báo cáo bán hàng" >
+      <item Text="1. Báo cáo doanh thu" NavigateUrl="~/Pages/BaoCao/DoanhThuDaiLy.aspx" />
+      <item Text="2. Báo cáo công nợ" NavigateUrl="~/Pages/BaoCao/CongNo.aspx" />
+      <item Text="3. Báo cáo chi tiết giao dịch" NavigateUrl="~/Pages/BaoCao/CongNoDLChiTiet.aspx" />
+      <item Text="4. Báo cáo doanh thu theo hàng hóa" NavigateUrl="~/Pages/BaoCao/DoanhThuTheoHangHoa.aspx" />
+      <item Text="5. Báo cáo thanh toán" NavigateUrl="~/Pages/BaoCao/ThanhToanDaiLy.aspx" />
+      <item Text="6. Báo cáo trả hàng" NavigateUrl="~/Pages/BaoCao/TraHangDaiLy.aspx" />
+    </item>
+
+
+    <item Text="2. Danh sách khách hàng" NavigateUrl="~/Pages/BaoCao/DanhSachKhachHang.aspx" />
+    <item Text="3. Báo cáo công nợ NCC" NavigateUrl="~/Pages/BaoCao/CongNoNCC.aspx" />
+    <item Text="4. Báo cáo thanh toán cho NCC" NavigateUrl="~/Pages/BaoCao/ThanhToanNCC.aspx" />
+    <item Text="5. Báo cáo Nhập-Xuất-Tồn" NavigateUrl="~/Pages/BaoCao/NhapXuatTon.aspx" />
+    <item Text="6. Báo cáo nhập kho chi tiết" NavigateUrl="~/Pages/BaoCao/ChiTietNhapKho.aspx" />
+    <item Text="7. Báo cáo xuất kho chi tiết" NavigateUrl="~/Pages/BaoCao/ChiTietXuatKho.aspx" />
+  </item>
+  <item Text="Hệ thống" >
+    <item Text="1. Thông tin tài khoản" NavigateUrl="~/Pages/TaiKhoan/ThongTinTaiKhoan.aspx" />
+    <item Text="2. Danh sách tài khoản" NavigateUrl="~/Pages/TaiKhoan/DanhSachTaiKhoan.aspx" />
+    <item Text="3. Lý do xuất khác" NavigateUrl="~/Pages/HeThong/LyDoXuat.aspx" />
+    <item Text="4. Thông tin cửa hàng" NavigateUrl="~/Pages/HeThong/ThongTinCuaHang.aspx" />
+    <item Text="5. Đăng xuất"  NavigateUrl="~/Pages/TaiKhoan/DangXuat.aspx" />
+    <item Text="6. Trợ giúp"  NavigateUrl="https://gpm.vn/" />
+  </item>
+</items>
